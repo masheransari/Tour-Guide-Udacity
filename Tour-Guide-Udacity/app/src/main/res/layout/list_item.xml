@@ -22,8 +22,7 @@
         android:layout_alignParentRight="true"
         android:layout_alignParentTop="true"
         android:id="@+id/text_container"
-        android:background="#25aaf2"
-      >
+        android:background="#25aaf2">
 
         <TextView
             android:id="@+id/Main_text"
