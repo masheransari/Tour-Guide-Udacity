@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         TextView t_islam, t_national, t_hospital, t_uni, t_clg, t_school, t_expo, t_water, t_park;
 
         t_islam = (TextView)findViewById(R.id.islamic);
@@ -94,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View view) {
                 Intent i = new Intent(MainActivity.this, park.class);
                 startActivity(i);
+
             }
         });
     }

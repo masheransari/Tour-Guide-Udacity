@@ -15,6 +15,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".national"></activity>
+        <activity android:name=".clg"></activity>
+        <activity android:name=".expo"></activity>
+        <activity android:name=".hospital"></activity>
+        <activity android:name=".islam"></activity>
+        <activity android:name=".park"></activity>
+        <activity android:name=".school"></activity>
+        <activity android:name=".uni"></activity>
+        <activity android:name=".water"></activity>
     </application>
 
 </manifest>
