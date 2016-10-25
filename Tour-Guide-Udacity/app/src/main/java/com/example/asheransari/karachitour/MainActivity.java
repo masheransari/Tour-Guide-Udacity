@@ -8,12 +8,12 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView t_islam, t_national, t_hospital, t_uni, t_clg, t_school, t_expo, t_water, t_park;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        TextView t_islam, t_national, t_hospital, t_uni, t_clg, t_school, t_expo, t_water, t_park;
 
         t_islam = (TextView)findViewById(R.id.islamic);
         t_national = (TextView)findViewById(R.id.national);
