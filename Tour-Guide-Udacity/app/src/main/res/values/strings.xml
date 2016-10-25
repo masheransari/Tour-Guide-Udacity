@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Karachi Tour</string>
+    <string name="islamic">Islamic Festivals</string>
+    <string name="nationalText">National Festivals</string>
+    <string name="hospital">Hospitals</string>
+    <string name="University">Universities</string>
+    <string name="clg">Colleges</string>
+    <string name="school">Schools</string>
+    <string name="expo">Karachi Expo Center</string>
+    <string name="water">Water Parks</string>
+    <string name="parks"><![CDATA[Parks & Visiting Places]]></string>
 </resources>

@@ -7,5 +7,76 @@
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
     </style>
-
+<style name="islamitName">
+    <item name="android:background">@color/islamic</item>
+    <item name="android:gravity">center|start</item>
+    <item name="android:paddingLeft">20dp</item>
+    <item name="android:textSize">20dp</item>
+    <item name="android:textStyle">bold</item>
+    <item name="android:textColor">#ffffff</item>
+</style>
+    <style name="nationalName">
+        <item name="android:background">@color/national</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="hospitalName">
+        <item name="android:background">@color/hospital</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="uni">
+        <item name="android:background">@color/uni</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="clg">
+        <item name="android:background">@color/clg</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="school">
+        <item name="android:background">@color/school</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="expo">
+        <item name="android:background">@color/expo</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="water">
+        <item name="android:background">@color/water</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
+    <style name="parks">
+        <item name="android:background">@color/parks</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:paddingLeft">20dp</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">#ffffff</item>
+    </style>
 </resources>

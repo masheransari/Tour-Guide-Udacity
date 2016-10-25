@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="backgroundCOlor">#c9d4da</color>
+    <color name="islamic">#0ba42f</color>
+    <color name="national">#43ca33</color>
+    <color name="hospital">#74ef76</color>
+    <color name="uni">#f15e09</color>
+    <color name="clg">#15fae7</color>
+    <color name="school">#151dfa</color>
+    <color name="expo">#a229ee</color>
+    <color name="water">#ec1dd7</color>
+    <color name="parks">#f91134</color>
 </resources>

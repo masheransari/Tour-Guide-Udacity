@@ -1,17 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView android:layout_width="match_parent"
     xmlns:tools="http://schemas.android.com/tools"
-    android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:paddingLeft="@dimen/activity_horizontal_margin"
-    android:paddingRight="@dimen/activity_horizontal_margin"
-    android:paddingTop="@dimen/activity_vertical_margin"
-    android:paddingBottom="@dimen/activity_vertical_margin"
-    tools:context="com.example.asheransari.karachitour.MainActivity">
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MainActivity"
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_height="match_parent">
 
-    <TextView
-        android:text="Hello World!"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-</RelativeLayout>
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/backgroundCOlor"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/islamic"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            style="@style/islamitName"
+            android:text="@string/islamic">
+        </TextView>
+        <TextView
+            android:id="@+id/national"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/nationalText"
+            style="@style/nationalName"
+            />
+        <TextView
+            android:id="@+id/hospital"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/hospital"
+            style="@style/hospitalName"
+            />
+        <TextView
+            android:id="@+id/uni"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/University"
+            style="@style/uni"/>
+        <TextView
+            android:id="@+id/clg"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/clg"
+            style="@style/clg"
+            />
+        <TextView
+            android:id="@+id/school"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/school"
+            style="@style/school"
+            />
+        <TextView
+            android:id="@+id/expo"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/expo"
+            style="@style/expo"/>
+        <TextView
+            android:id="@+id/water"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/water"
+            style="@style/water"/>
+        <TextView
+            android:id="@+id/park"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/parks"
+            style="@style/parks"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>
