@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Karachi Tour</string>
+    <string name="islamic">Islamic Festivals</string>
+    <string name="nationalText">National Festivals</string>
+    <string name="hospital">Hospitals</string>
+    <string name="University">Universities</string>
+    <string name="clg">Colleges</string>
+    <string name="school">Schools</string>
+    <string name="expo">Karachi Expo Center</string>
+    <string name="water">Water Parks</string>
+    <string name="parks"><![CDATA[Parks & Visiting Places]]></string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_islamic">Islamic</string>
+    <string name="category_school">School</string>
+    <string name="category_clg">College</string>
+    <string name="category_uni">University</string>
+    <string name="category_national">National Events</string>
+</resources>
